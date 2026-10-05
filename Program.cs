@@ -40,6 +40,13 @@
 
             #endregion
 
+            #region 6th
+            int genreNumber = 1;
+            book.genre = (Genre)genreNumber;
+            Console.WriteLine(book.genre);
+
+            #endregion
+
 
 
         }
