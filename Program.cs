@@ -12,6 +12,13 @@
             /* the program will not run because the field password  is private so  can't use it out side the class */
 
             #endregion
+
+            #region 2nd q
+            Console.WriteLine(book.copiesInStock);
+            /* it will compile because the field is internal so it can be used in all project*/
+
+
+            #endregion
         }
     }
 }
