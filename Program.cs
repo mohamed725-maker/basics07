@@ -19,6 +19,13 @@
 
 
             #endregion
+
+            #region 3rd q
+            book.title = "clean code";
+            Console.WriteLine(book.title);
+            #endregion
+
+
         }
     }
 }
